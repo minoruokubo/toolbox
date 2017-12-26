@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp01</string>
+    <string name="textview_text1">【？？？？】</string>
+    <string name="textview_text2">変わったネ！</string>
+    <string name="textview_text3">もどったネ！</string>
+    <string name="button_text1">変更</string>
+    <string name="button_text2">復元</string>
+</resources>
+
